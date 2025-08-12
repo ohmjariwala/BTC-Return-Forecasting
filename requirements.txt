@@ -1,0 +1,17 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+
+# Plotting
+plotly
+
+# Machine learning
+scikit-learn
+
+# Data sources / APIs
+alpaca-trade-api
+alpaca-py
+requests
+yfinance
+pytz 
